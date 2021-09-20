@@ -11,6 +11,7 @@ Source0:    https://github.com/mortie/swaylock-effects/archive/v%{upstreamversio
 
 # Older versions were part of the sway package
 Conflicts:      sway < 1.0
+Conflicts:      swaylock
 
 BuildRequires:  gcc
 BuildRequires:  meson >= 0.48.0
