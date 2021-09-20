@@ -63,6 +63,8 @@ swaylock-effects is a screen locking utility for Wayland compositors, with fancy
 
 
 %changelog
+* Mon Sep 20 2021 Faximilie <me@faximili.me> - 1.6-3
+- Fix wrong version and add conflicts with default swaylock package
 * Thu Feb 11 2021 Edd Salkield <edd@salkield.uk> - 1.6-3
 - Upgrade to version 1.6-3 https://github.com/mortie/swaylock-effects/releases/tag/v1.6-3
 * Wed Sep 23 2020 Edd Salkield <edd@salkield.uk> - 1.6-1
